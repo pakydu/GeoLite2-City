@@ -1,3 +1,5 @@
+# 经纬度和IP地址匹配到对应的具体地址。
+
 # GeoLite2-City Database via jsDelivr CDN
 
 The GeoLite2-City database, provided by [MaxMind](https://www.maxmind.com/), is used for accurate geo-location information. It is an essential component of [WP Statistics](https://wordpress.org/plugins/wp-statistics/), a popular privacy-focused analytics solution for WordPress, enabling detailed insights into visitor locations.
